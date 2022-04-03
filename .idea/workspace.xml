@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de8024f-9f33-4278-9813-e4213fa82c7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/courses/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/migrations/0002_rename_createdd_course_updated_and_more.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/models/user_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/models/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/courses/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/models/course.py" beforeDir="false" afterPath="$PROJECT_DIR$/courses/models/course.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/views/course.py" beforeDir="false" afterPath="$PROJECT_DIR$/courses/views/course.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csecomputerclasses/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/csecomputerclasses/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +34,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27HvWAGr0FQyyNtAWSYFEEphQLn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

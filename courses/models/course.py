@@ -7,8 +7,8 @@ class Course(models.Model):
     description = models.TextField()
     fee = models.IntegerField()
     duration = models.IntegerField()
-    created = models.DateTimeField()
-    updated = models.DateTimeField()
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
         db_table ="course"
